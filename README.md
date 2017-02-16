@@ -1,7 +1,7 @@
 # modul10_Bank
-Nama  : Naufal Fakhrian
-Kelas : XI RPL 4
-Absen : 26
+Nama  : Naufal Fakhrian <br>
+Kelas : XI RPL 4 <br>
+Absen : 26 <br>
 <br>
 ![image](https://cloud.githubusercontent.com/assets/22053684/23028690/a9eabc78-f49a-11e6-88ca-abedbb408d6f.png)
 <br>
